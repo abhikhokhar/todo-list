@@ -38,7 +38,7 @@ body {
   
   @media (min-width: 768px) {
     .background {
-      background-image: url('bgimage2.png'); 
+      background-image: url('/bgimage2.png'); 
     }
   
     .todo-container {
@@ -58,7 +58,7 @@ body {
   
   @media (max-width: 767px) {
     .background {
-      background-image: url('bgimage.png'); 
+      background-image: url('/bgimage.png'); 
     }
   
     .todo-container {
